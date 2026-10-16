@@ -1,0 +1,845 @@
+Date,tourney_name,Surface,Round,Aname,Bname,Awin,model_prob
+2024-10-02,Shanghai Masters,Hard,1st Round,Muller A.,Nardi L.,1,0.5218574404716492
+2024-10-02,Shanghai Masters,Hard,1st Round,Opelka R.,Rinderknech A.,0,0.534005880355835
+2024-10-02,Shanghai Masters,Hard,1st Round,Wu Y.,Nagal S.,1,0.5118127465248108
+2024-10-02,Shanghai Masters,Hard,1st Round,Van De Zandschulp B.,Carreno Busta P.,1,0.3458056151866913
+2024-10-02,Shanghai Masters,Hard,1st Round,Dzumhur D.,Monfils G.,0,0.2600862979888916
+2024-10-02,Shanghai Masters,Hard,1st Round,Bautista Agut R.,Carballes Baena R.,0,0.6027525663375854
+2024-10-02,Shanghai Masters,Hard,1st Round,Cazaux A.,Cilic M.,1,0.2740408778190613
+2024-10-02,Shanghai Masters,Hard,1st Round,Darderi L.,Fognini F.,0,0.4910518527030945
+2024-10-02,Shanghai Masters,Hard,1st Round,Shapovalov D.,Sonego L.,1,0.4802891612052917
+2024-10-02,Shanghai Masters,Hard,1st Round,Moutet C.,Vukic A.,0,0.556041955947876
+2024-10-02,Shanghai Masters,Hard,1st Round,Svajda Z.,Mannarino A.,1,0.3113376796245575
+2024-10-02,Shanghai Masters,Hard,1st Round,Shang J.,Wong C.,1,0.6071641445159912
+2024-10-02,Shanghai Masters,Hard,1st Round,Diallo G.,Davidovich Fokina A.,0,0.3928247690200805
+2024-10-02,Shanghai Masters,Hard,1st Round,Daniel T.,Gerasimov E.,1,0.5838921070098877
+2024-10-02,Shanghai Masters,Hard,1st Round,Evans D.,Seyboth Wild T.,0,0.550321102142334
+2024-10-02,Shanghai Masters,Hard,1st Round,Nishikori K.,Navone M.,1,0.6698304414749146
+2024-10-03,Shanghai Masters,Hard,1st Round,Kecmanovic M.,Hijikata R.,1,0.6295104622840881
+2024-10-03,Shanghai Masters,Hard,1st Round,Gaston H.,Munar J.,0,0.4185505509376526
+2024-10-03,Shanghai Masters,Hard,1st Round,Duckworth J.,Goffin D.,0,0.3295449316501617
+2024-10-03,Shanghai Masters,Hard,1st Round,Berrettini M.,O Connell C.,1,0.5023800730705261
+2024-10-03,Shanghai Masters,Hard,1st Round,Martinez P.,Mensik J.,0,0.6033694744110107
+2024-10-03,Shanghai Masters,Hard,1st Round,Griekspoor T.,Diaz Acosta F.,1,0.4559701383113861
+2024-10-03,Shanghai Masters,Hard,1st Round,Giron M.,Tu L.,1,0.6601468324661255
+2024-10-03,Shanghai Masters,Hard,1st Round,Watanuki Y.,Kotov P.,1,0.5686367750167847
+2024-10-03,Shanghai Masters,Hard,1st Round,Ramanathan R.,Shevchenko A.,0,0.3068457245826721
+2024-10-03,Shanghai Masters,Hard,1st Round,Zhukayev B.,Safiullin R.,0,0.3082514405250549
+2024-10-03,Shanghai Masters,Hard,1st Round,Bergs Z.,Zhang Zh.,1,0.5048048496246338
+2024-10-03,Shanghai Masters,Hard,1st Round,Bellucci M.,Harris B.,1,0.6567389965057373
+2024-10-03,Shanghai Masters,Hard,1st Round,Kovacevic A.,Atmane T.,0,0.488267183303833
+2024-10-03,Shanghai Masters,Hard,1st Round,Wawrinka S.,Mpetshi G.,1,0.6808929443359375
+2024-10-04,Shanghai Masters,Hard,1st Round,Bu Y.,Michelsen A.,0,0.5539367198944092
+2024-10-04,Shanghai Masters,Hard,2nd Round,Fognini F.,Paul T.,0,0.425860583782196
+2024-10-04,Shanghai Masters,Hard,2nd Round,Tabilo A.,Rinderknech A.,1,0.5255101919174194
+2024-10-04,Shanghai Masters,Hard,2nd Round,Shapovalov D.,Shelton B.,0,0.5603461265563965
+2024-10-04,Shanghai Masters,Hard,2nd Round,Muller A.,Auger-Aliassime F.,1,0.3610158562660217
+2024-10-04,Shanghai Masters,Hard,2nd Round,Monfils G.,Baez S.,1,0.8884334564208984
+2024-10-04,Shanghai Masters,Hard,2nd Round,Svajda Z.,Arnaldi M.,0,0.3101487457752228
+2024-10-04,Shanghai Masters,Hard,2nd Round,Tsitsipas S.,Nishikori K.,1,0.6404247283935547
+2024-10-04,Shanghai Masters,Hard,2nd Round,Humbert U.,Cazaux A.,1,0.556251049041748
+2024-10-04,Shanghai Masters,Hard,2nd Round,Carballes Baena R.,Fils A.,1,0.5901716947555542
+2024-10-04,Shanghai Masters,Hard,2nd Round,Van De Zandschulp B.,Etcheverry T.,0,0.4896468818187713
+2024-10-04,Shanghai Masters,Hard,2nd Round,Machac T.,Davidovich Fokina A.,1,0.4840915203094482
+2024-10-04,Shanghai Masters,Hard,2nd Round,Medvedev D.,Seyboth Wild T.,1,0.833354115486145
+2024-10-04,Shanghai Masters,Hard,2nd Round,Wu Y.,Jarry N.,1,0.5198546648025513
+2024-10-04,Shanghai Masters,Hard,2nd Round,Vukic A.,Ruud C.,1,0.379803717136383
+2024-10-05,Shanghai Masters,Hard,2nd Round,Shang J.,Alcaraz C.,0,0.3034057915210724
+2024-10-05,Shanghai Masters,Hard,2nd Round,Nakashima B.,Watanuki Y.,0,0.5401615500450134
+2024-10-05,Shanghai Masters,Hard,2nd Round,Rublev A.,Mensik J.,0,0.8206331729888916
+2024-10-05,Shanghai Masters,Hard,2nd Round,Shevchenko A.,Cerundolo F.,1,0.3854682445526123
+2024-10-05,Shanghai Masters,Hard,2nd Round,Daniel T.,Sinner J.,0,0.2631510496139526
+2024-10-05,Shanghai Masters,Hard,2nd Round,Lehecka J.,Munar J.,1,0.4823569059371948
+2024-10-05,Shanghai Masters,Hard,2nd Round,Popyrin A.,Kecmanovic M.,1,0.4648175239562988
+2024-10-05,Shanghai Masters,Hard,2nd Round,Michelsen A.,Djokovic N.,0,0.2473791539669037
+2024-10-05,Shanghai Masters,Hard,2nd Round,Bellucci M.,Zverev A.,0,0.2271105945110321
+2024-10-06,Shanghai Masters,Hard,3rd Round,Medvedev D.,Arnaldi M.,1,0.2763251066207886
+2024-10-06,Shanghai Masters,Hard,3rd Round,Sinner J.,Etcheverry T.,1,0.3294215798377991
+2024-10-06,Shanghai Masters,Hard,3rd Round,Wu Y.,Alcaraz C.,0,0.480985015630722
+2024-10-06,Shanghai Masters,Hard,3rd Round,Tabilo A.,Paul T.,0,0.1883249580860138
+2024-10-07,Shanghai Masters,Hard,2nd Round,Atmane T.,Fritz T.,0,0.4463634490966797
+2024-10-07,Shanghai Masters,Hard,2nd Round,Safiullin R.,Bublik A.,1,0.7212478518486023
+2024-10-07,Shanghai Masters,Hard,2nd Round,Griekspoor T.,Thompson J.,1,0.8589640855789185
+2024-10-07,Shanghai Masters,Hard,2nd Round,Bergs Z.,Dimitrov G.,0,0.3765665590763092
+2024-10-07,Shanghai Masters,Hard,2nd Round,Musetti L.,Goffin D.,0,0.6178154945373535
+2024-10-07,Shanghai Masters,Hard,2nd Round,Khachanov K.,Giron M.,0,0.8199495077133179
+2024-10-07,Shanghai Masters,Hard,2nd Round,Tiafoe F.,Zhou Y.,1,0.678222119808197
+2024-10-07,Shanghai Masters,Hard,2nd Round,Berrettini M.,Rune H.,0,0.2852486968040466
+2024-10-07,Shanghai Masters,Hard,2nd Round,Wawrinka S.,Cobolli F.,0,0.4030992388725281
+2024-10-08,Shanghai Masters,Hard,3rd Round,Vukic A.,Machac T.,0,0.4380766749382019
+2024-10-08,Shanghai Masters,Hard,3rd Round,Humbert U.,Monfils G.,0,0.2716667652130127
+2024-10-08,Shanghai Masters,Hard,3rd Round,Muller A.,Tsitsipas S.,0,0.3448400199413299
+2024-10-08,Shanghai Masters,Hard,3rd Round,Mensik J.,Shevchenko A.,1,0.3435833156108856
+2024-10-08,Shanghai Masters,Hard,3rd Round,Fritz T.,Watanuki Y.,1,0.7748770713806152
+2024-10-08,Shanghai Masters,Hard,3rd Round,Shelton B.,Carballes Baena R.,1,0.4790069758892059
+2024-10-08,Shanghai Masters,Hard,3rd Round,Dimitrov G.,Popyrin A.,1,0.6692907810211182
+2024-10-08,Shanghai Masters,Hard,3rd Round,Tiafoe F.,Safiullin R.,0,0.743104875087738
+2024-10-08,Shanghai Masters,Hard,3rd Round,Lehecka J.,Rune H.,0,0.3017421364784241
+2024-10-08,Shanghai Masters,Hard,3rd Round,Djokovic N.,Cobolli F.,1,0.7698062658309937
+2024-10-08,Shanghai Masters,Hard,3rd Round,Goffin D.,Giron M.,1,0.7022534012794495
+2024-10-08,Shanghai Masters,Hard,3rd Round,Griekspoor T.,Zverev A.,0,0.2375817000865936
+2024-10-09,Shanghai Masters,Hard,4th Round,Sinner J.,Shelton B.,1,0.6510711908340454
+2024-10-09,Shanghai Masters,Hard,4th Round,Tsitsipas S.,Medvedev D.,0,0.351231038570404
+2024-10-09,Shanghai Masters,Hard,4th Round,Monfils G.,Alcaraz C.,0,0.6300452947616577
+2024-10-09,Shanghai Masters,Hard,4th Round,Paul T.,Machac T.,0,0.5737324953079224
+2024-10-09,Shanghai Masters,Hard,4th Round,Mensik J.,Dimitrov G.,1,0.2215027064085006
+2024-10-09,Shanghai Masters,Hard,4th Round,Djokovic N.,Safiullin R.,1,0.7473942041397095
+2024-10-09,Shanghai Masters,Hard,4th Round,Rune H.,Fritz T.,0,0.3772557973861694
+2024-10-09,Shanghai Masters,Hard,4th Round,Zverev A.,Goffin D.,0,0.7348734736442566
+2024-10-10,Shanghai Masters,Hard,Quarterfinals,Medvedev D.,Sinner J.,0,0.5855910778045654
+2024-10-10,Shanghai Masters,Hard,Quarterfinals,Machac T.,Alcaraz C.,1,0.3086732625961303
+2024-10-11,Shanghai Masters,Hard,Quarterfinals,Goffin D.,Fritz T.,0,0.5015295743942261
+2024-10-11,Shanghai Masters,Hard,Quarterfinals,Mensik J.,Djokovic N.,0,0.2346817404031753
+2024-10-12,Shanghai Masters,Hard,Semifinals,Sinner J.,Machac T.,1,0.6726142764091492
+2024-10-12,Shanghai Masters,Hard,Semifinals,Djokovic N.,Fritz T.,1,0.5795629024505615
+2024-10-13,Shanghai Masters,Hard,The Final,Sinner J.,Djokovic N.,1,0.4591473937034607
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Machac T.,Rinderknech A.,0,0.5310006141662598
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Darderi L.,Griekspoor T.,0,0.4350683689117431
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Martinez P.,Thompson J.,0,0.516344428062439
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Halys Q.,Cerundolo F.,0,0.4195451736450195
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Zhang Zh.,Etcheverry T.,0,0.4322496056556701
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Shang J.,Giron M.,0,0.4916829466819763
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Nakashima B.,Humbert U.,0,0.4532676935195923
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Fognini F.,Bublik A.,0,0.301765114068985
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Carballes Baena R.,Tsitsipas S.,0,0.4105837941169739
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Jarry N.,Sonego L.,1,0.348663866519928
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Tabilo A.,Borges N.,1,0.4500960409641266
+2024-10-28,BNP Paribas Masters,Hard,1st Round,Paul T.,Mannarino A.,0,0.5476624965667725
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Musetti L.,Struff J.L.,0,0.6127411127090454
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Michelsen A.,Hurkacz H.,1,0.2084732055664062
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Fils A.,Cilic M.,1,0.2939382195472717
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Popyrin A.,Berrettini M.,1,0.6372973918914795
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Mpetshi G.,Tiafoe F.,1,0.1909187734127044
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Khachanov K.,O Connell C.,1,0.716484010219574
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Arnaldi M.,Rune H.,0,0.3178923428058624
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Bergs Z.,Gasquet R.,1,0.3688005805015564
+2024-10-29,BNP Paribas Masters,Hard,1st Round,De Minaur A.,Navone M.,1,0.8177378177642822
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Shelton B.,Moutet C.,1,0.5793347358703613
+2024-10-29,BNP Paribas Masters,Hard,1st Round,Draper J.,Lehecka J.,1,0.4954485893249511
+2024-10-29,BNP Paribas Masters,Hard,2nd Round,Rublev A.,Cerundolo F.,0,0.7513113021850586
+2024-10-29,BNP Paribas Masters,Hard,2nd Round,Jarry N.,Alcaraz C.,0,0.2563210725784302
+2024-10-29,BNP Paribas Masters,Hard,2nd Round,Tsitsipas S.,Tabilo A.,1,0.6224669218063354
+2024-10-29,BNP Paribas Masters,Hard,2nd Round,Thompson J.,Ruud C.,1,0.40707927942276
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Etcheverry T.,Dimitrov G.,0,0.1867843270301818
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Rinderknech A.,Michelsen A.,1,0.5215282440185547
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Medvedev D.,Popyrin A.,0,0.7685588002204895
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Mannarino A.,Bergs Z.,1,0.7743360996246338
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Struff J.L.,Fils A.,0,0.5826703310012817
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Humbert U.,Giron M.,1,0.5006434917449951
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Bublik A.,Rune H.,0,0.3421640694141388
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Khachanov K.,Mpetshi G.,1,0.7860909700393677
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Kecmanovic M.,De Minaur A.,0,0.2681845426559448
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Griekspoor T.,Zverev A.,0,0.2298246026039123
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Draper J.,Fritz T.,1,0.2787725627422333
+2024-10-30,BNP Paribas Masters,Hard,2nd Round,Cazaux A.,Shelton B.,1,0.394594669342041
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Mannarino A.,Thompson J.,0,0.7096227407455444
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Cerundolo F.,Tsitsipas S.,0,0.4200019240379333
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Popyrin A.,Khachanov K.,0,0.3551554083824157
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Fils A.,Zverev A.,0,0.2179424911737442
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Draper J.,De Minaur A.,0,0.196654736995697
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Alcaraz C.,Humbert U.,0,0.6342512369155884
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Cazaux A.,Rune H.,0,0.2584396302700043
+2024-10-31,BNP Paribas Masters,Hard,3rd Round,Dimitrov G.,Rinderknech A.,1,0.8108722567558289
+2024-11-01,BNP Paribas Masters,Hard,Quarterfinals,Tsitsipas S.,Zverev A.,0,0.3944075107574463
+2024-11-01,BNP Paribas Masters,Hard,Quarterfinals,De Minaur A.,Rune H.,0,0.5776710510253906
+2024-11-01,BNP Paribas Masters,Hard,Quarterfinals,Thompson J.,Humbert U.,0,0.4592205286026001
+2024-11-01,BNP Paribas Masters,Hard,Quarterfinals,Khachanov K.,Dimitrov G.,1,0.4636657834053039
+2024-11-02,BNP Paribas Masters,Hard,Semifinals,Rune H.,Zverev A.,0,0.3146416544914245
+2024-11-02,BNP Paribas Masters,Hard,Semifinals,Humbert U.,Khachanov K.,1,0.2867919206619262
+2024-11-03,BNP Paribas Masters,Hard,The Final,Humbert U.,Zverev A.,0,0.2308543920516967
+2024-11-10,Masters Cup,Hard,Round Robin,Medvedev D.,Fritz T.,0,0.6587538123130798
+2024-11-10,Masters Cup,Hard,Round Robin,Sinner J.,De Minaur A.,1,0.358985960483551
+2024-11-11,Masters Cup,Hard,Round Robin,Alcaraz C.,Ruud C.,0,0.6266132593154907
+2024-11-11,Masters Cup,Hard,Round Robin,Rublev A.,Zverev A.,0,0.565276026725769
+2024-11-12,Masters Cup,Hard,Round Robin,De Minaur A.,Medvedev D.,0,0.4173963069915771
+2024-11-12,Masters Cup,Hard,Round Robin,Sinner J.,Fritz T.,1,0.4805244207382202
+2024-11-13,Masters Cup,Hard,Round Robin,Alcaraz C.,Rublev A.,1,0.2788741588592529
+2024-11-13,Masters Cup,Hard,Round Robin,Ruud C.,Zverev A.,0,0.2792857587337494
+2024-11-14,Masters Cup,Hard,Round Robin,Fritz T.,De Minaur A.,0,0.4142650961875915
+2024-11-14,Masters Cup,Hard,Round Robin,Sinner J.,Medvedev D.,1,0.3464624285697937
+2024-11-15,Masters Cup,Hard,Round Robin,Zverev A.,Alcaraz C.,1,0.6288604736328125
+2024-11-15,Masters Cup,Hard,Round Robin,Rublev A.,Ruud C.,0,0.7736610174179077
+2024-11-16,Masters Cup,Hard,Semifinals,Zverev A.,Fritz T.,0,0.5941028594970703
+2024-11-16,Masters Cup,Hard,Semifinals,Sinner J.,Ruud C.,1,0.6482665538787842
+2024-11-17,Masters Cup,Hard,The Final,Sinner J.,Fritz T.,1,0.4554209113121032
+2025-01-12,Australian Open,Hard,1st Round,Gaston H.,Jasika O.,1,0.510657548904419
+2025-01-12,Australian Open,Hard,1st Round,Virtanen O.,Fils A.,0,0.3939448595046997
+2025-01-12,Australian Open,Hard,1st Round,Monteiro T.,Nishikori K.,0,0.5643453001976013
+2025-01-12,Australian Open,Hard,1st Round,Munar J.,Ruud C.,0,0.4137451946735382
+2025-01-12,Australian Open,Hard,1st Round,Bu Y.,Habib H.,0,0.6970636248588562
+2025-01-12,Australian Open,Hard,1st Round,Lehecka J.,Tu L.,1,0.6308640241622925
+2025-01-12,Australian Open,Hard,1st Round,Machac T.,Nagal S.,1,0.5893669724464417
+2025-01-12,Australian Open,Hard,1st Round,Martinez P.,Darderi L.,1,0.5633105039596558
+2025-01-12,Australian Open,Hard,1st Round,Humbert U.,Gigante M.,1,0.6414815187454224
+2025-01-12,Australian Open,Hard,1st Round,Onclin G.,Opelka R.,0,0.420559287071228
+2025-01-12,Australian Open,Hard,1st Round,Halys Q.,Walton A.,1,0.5405600666999817
+2025-01-12,Australian Open,Hard,1st Round,Zverev A.,Pouille L.,1,0.9037078619003296
+2025-01-13,Australian Open,Hard,1st Round,Rinderknech A.,Tiafoe F.,0,0.1558425724506378
+2025-01-13,Australian Open,Hard,1st Round,Tabilo A.,Carballes Baena R.,0,0.480143278837204
+2025-01-13,Australian Open,Hard,1st Round,Basilashvili N.,Mensik J.,0,0.6325681805610657
+2025-01-13,Australian Open,Hard,1st Round,Michelsen A.,Tsitsipas S.,1,0.316906601190567
+2025-01-13,Australian Open,Hard,1st Round,Borges N.,Muller A.,1,0.4127189218997955
+2025-01-13,Australian Open,Hard,1st Round,Seyboth Wild T.,Marozsan F.,0,0.4406208097934723
+2025-01-13,Australian Open,Hard,1st Round,Stricker D.,Duckworth J.,0,0.5548855066299438
+2025-01-13,Australian Open,Hard,1st Round,Mccabe J.,Landaluce M.,1,0.4006558060646057
+2025-01-13,Australian Open,Hard,1st Round,Jarry N.,Sinner J.,0,0.1648617386817932
+2025-01-13,Australian Open,Hard,1st Round,Thompson J.,Koepfer D.,1,0.5024729371070862
+2025-01-13,Australian Open,Hard,1st Round,Daniel T.,Schoolkate T.,0,0.6617830395698547
+2025-01-13,Australian Open,Hard,1st Round,Vukic A.,Dzumhur D.,1,0.6973490715026855
+2025-01-13,Australian Open,Hard,1st Round,Navone M.,Draper J.,0,0.3127892017364502
+2025-01-13,Australian Open,Hard,1st Round,Safiullin R.,Kokkinakis T.,0,0.4719068109989166
+2025-01-13,Australian Open,Hard,1st Round,Cazaux A.,Baez S.,1,0.6847673058509827
+2025-01-13,Australian Open,Hard,1st Round,Dougaz A.,Nishioka Y.,0,0.5319613218307495
+2025-01-13,Australian Open,Hard,1st Round,Korda S.,Klein L.,1,0.7087652087211609
+2025-01-13,Australian Open,Hard,1st Round,Faria J.,Kotov P.,1,0.360639750957489
+2025-01-13,Australian Open,Hard,1st Round,Auger-Aliassime F.,Struff J.L.,1,0.6563171148300171
+2025-01-13,Australian Open,Hard,1st Round,Shang J.,Davidovich Fokina A.,0,0.4996644854545593
+2025-01-13,Australian Open,Hard,1st Round,Shevchenko A.,Alcaraz C.,0,0.1039464324712753
+2025-01-13,Australian Open,Hard,1st Round,Basavareddy N.,Djokovic N.,0,0.05550192669034
+2025-01-13,Australian Open,Hard,1st Round,Fearnley J.,Kyrgios N.,1,0.1524824351072311
+2025-01-13,Australian Open,Hard,1st Round,Bonzi B.,Goffin D.,1,0.410289317369461
+2025-01-13,Australian Open,Hard,1st Round,Passaro F.,Dimitrov G.,1,0.0415431335568428
+2025-01-13,Australian Open,Hard,1st Round,Paul T.,O Connell C.,1,0.5739861726760864
+2025-01-14,Australian Open,Hard,1st Round,Norrie C.,Berrettini M.,0,0.672282874584198
+2025-01-14,Australian Open,Hard,1st Round,Lajovic D.,Kecmanovic M.,0,0.3385577797889709
+2025-01-14,Australian Open,Hard,1st Round,Khachanov K.,Mannarino A.,1,0.7283216714859009
+2025-01-14,Australian Open,Hard,1st Round,Diallo G.,Nardi L.,1,0.4752790927886963
+2025-01-14,Australian Open,Hard,1st Round,Rune H.,Zhang Zh.,1,0.7044967412948608
+2025-01-14,Australian Open,Hard,1st Round,Fritz T.,Brooksby J.,1,0.838250994682312
+2025-01-14,Australian Open,Hard,1st Round,Garin C.,Coric B.,1,0.4117504358291626
+2025-01-14,Australian Open,Hard,1st Round,Ugo Carabelli C.,Tien L.,0,0.3635028302669525
+2025-01-14,Australian Open,Hard,1st Round,Cerundolo F.,Bublik A.,1,0.3281582593917846
+2025-01-14,Australian Open,Hard,1st Round,Mpetshi G.,Monfils G.,0,0.1084969937801361
+2025-01-14,Australian Open,Hard,1st Round,Griekspoor T.,Hurkacz H.,0,0.1591450124979019
+2025-01-14,Australian Open,Hard,1st Round,Bergs Z.,Diaz Acosta F.,0,0.4344437718391418
+2025-01-14,Australian Open,Hard,1st Round,Samrej K.,Medvedev D.,0,0.0283135063946247
+2025-01-14,Australian Open,Hard,1st Round,Comesana F.,Altmaier D.,0,0.4598637223243713
+2025-01-14,Australian Open,Hard,1st Round,Musetti L.,Arnaldi M.,1,0.5202962160110474
+2025-01-14,Australian Open,Hard,1st Round,Shelton B.,Nakashima B.,1,0.4686869382858276
+2025-01-14,Australian Open,Hard,1st Round,Wawrinka S.,Sonego L.,0,0.444236695766449
+2025-01-14,Australian Open,Hard,1st Round,Coria F.,Boyer T.,0,0.614426851272583
+2025-01-14,Australian Open,Hard,1st Round,Hijikata R.,Krueger M.,0,0.4445193409919739
+2025-01-14,Australian Open,Hard,1st Round,Cobolli F.,Etcheverry T.,0,0.431302934885025
+2025-01-14,Australian Open,Hard,1st Round,Giron M.,Hanfmann Y.,1,0.5975503325462341
+2025-01-14,Australian Open,Hard,1st Round,Bautista Agut R.,Shapovalov D.,0,0.5107805728912354
+2025-01-14,Australian Open,Hard,1st Round,Popyrin A.,Moutet C.,0,0.7361873388290405
+2025-01-14,Australian Open,Hard,1st Round,Van De Zandschulp B.,De Minaur A.,0,0.15253646671772
+2025-01-14,Australian Open,Hard,1st Round,Carreno Busta P.,Majchrzak K.,1,0.8042861223220825
+2025-01-14,Australian Open,Hard,1st Round,Rublev A.,Fonseca J.,0,0.920433521270752
+2025-01-15,Australian Open,Hard,2nd Round,Opelka R.,Machac T.,0,0.421124517917633
+2025-01-15,Australian Open,Hard,2nd Round,Gaston H.,Lehecka J.,0,0.4493307471275329
+2025-01-15,Australian Open,Hard,2nd Round,Nishioka Y.,Alcaraz C.,0,0.1802200675010681
+2025-01-15,Australian Open,Hard,2nd Round,Passaro F.,Bonzi B.,0,0.2735075950622558
+2025-01-15,Australian Open,Hard,2nd Round,Thompson J.,Borges N.,0,0.450515866279602
+2025-01-15,Australian Open,Hard,2nd Round,Duckworth J.,Carballes Baena R.,0,0.4247320592403412
+2025-01-15,Australian Open,Hard,2nd Round,Faria J.,Djokovic N.,0,0.0698688998818397
+2025-01-15,Australian Open,Hard,2nd Round,Halys Q.,Fils A.,0,0.5135655403137207
+2025-01-15,Australian Open,Hard,2nd Round,Vukic A.,Korda S.,1,0.2873334288597107
+2025-01-15,Australian Open,Hard,2nd Round,Cazaux A.,Fearnley J.,0,0.564287006855011
+2025-01-15,Australian Open,Hard,2nd Round,Mensik J.,Ruud C.,1,0.3619901835918426
+2025-01-15,Australian Open,Hard,2nd Round,Draper J.,Kokkinakis T.,1,0.5291727781295776
+2025-01-15,Australian Open,Hard,2nd Round,Auger-Aliassime F.,Davidovich Fokina A.,0,0.5629196166992188
+2025-01-15,Australian Open,Hard,2nd Round,Habib H.,Humbert U.,0,0.2318726181983947
+2025-01-15,Australian Open,Hard,2nd Round,Zverev A.,Martinez P.,1,0.8980903625488281
+2025-01-15,Australian Open,Hard,2nd Round,Paul T.,Nishikori K.,1,0.6563177108764648
+2025-01-16,Australian Open,Hard,2nd Round,Kecmanovic M.,Hurkacz H.,1,0.2409928441047668
+2025-01-16,Australian Open,Hard,2nd Round,Khachanov K.,Diallo G.,1,0.8452885150909424
+2025-01-16,Australian Open,Hard,2nd Round,Altmaier D.,Monfils G.,0,0.1309663355350494
+2025-01-16,Australian Open,Hard,2nd Round,Shapovalov D.,Musetti L.,0,0.6055691242218018
+2025-01-16,Australian Open,Hard,2nd Round,Cerundolo F.,Diaz Acosta F.,1,0.5991520285606384
+2025-01-16,Australian Open,Hard,2nd Round,Carreno Busta P.,Shelton B.,0,0.6057732105255127
+2025-01-16,Australian Open,Hard,2nd Round,De Minaur A.,Boyer T.,1,0.918630599975586
+2025-01-16,Australian Open,Hard,2nd Round,Moutet C.,Krueger M.,1,0.5083045959472656
+2025-01-16,Australian Open,Hard,2nd Round,Garin C.,Fritz T.,0,0.1873778104782104
+2025-01-16,Australian Open,Hard,2nd Round,Etcheverry T.,Giron M.,0,0.4229993224143982
+2025-01-16,Australian Open,Hard,2nd Round,Mccabe J.,Michelsen A.,0,0.3267705738544464
+2025-01-16,Australian Open,Hard,2nd Round,Tiafoe F.,Marozsan F.,0,0.8507903814315796
+2025-01-16,Australian Open,Hard,2nd Round,Sonego L.,Fonseca J.,1,0.5793285965919495
+2025-01-16,Australian Open,Hard,2nd Round,Rune H.,Berrettini M.,1,0.6754670739173889
+2025-01-16,Australian Open,Hard,2nd Round,Schoolkate T.,Sinner J.,0,0.0732445567846298
+2025-01-16,Australian Open,Hard,2nd Round,Tien L.,Medvedev D.,1,0.0814988762140274
+2025-01-17,Australian Open,Hard,3rd Round,Carballes Baena R.,Paul T.,0,0.3596659302711487
+2025-01-17,Australian Open,Hard,3rd Round,Alcaraz C.,Borges N.,1,0.722282350063324
+2025-01-17,Australian Open,Hard,3rd Round,Zverev A.,Fearnley J.,1,0.9282510280609132
+2025-01-17,Australian Open,Hard,3rd Round,Mensik J.,Davidovich Fokina A.,0,0.4576590657234192
+2025-01-17,Australian Open,Hard,3rd Round,Humbert U.,Fils A.,1,0.5922159552574158
+2025-01-17,Australian Open,Hard,3rd Round,Djokovic N.,Machac T.,1,0.8391762971878052
+2025-01-17,Australian Open,Hard,3rd Round,Lehecka J.,Bonzi B.,1,0.4800985455513
+2025-01-17,Australian Open,Hard,3rd Round,Draper J.,Vukic A.,1,0.5820666551589966
+2025-01-18,Australian Open,Hard,3rd Round,Michelsen A.,Khachanov K.,1,0.2074203491210937
+2025-01-18,Australian Open,Hard,3rd Round,Fritz T.,Monfils G.,0,0.4218636751174927
+2025-01-18,Australian Open,Hard,3rd Round,De Minaur A.,Cerundolo F.,1,0.75948566198349
+2025-01-18,Australian Open,Hard,3rd Round,Marozsan F.,Sonego L.,0,0.3222233653068542
+2025-01-18,Australian Open,Hard,3rd Round,Moutet C.,Tien L.,0,0.5288405418395996
+2025-01-18,Australian Open,Hard,3rd Round,Musetti L.,Shelton B.,0,0.5237921476364136
+2025-01-18,Australian Open,Hard,3rd Round,Giron M.,Sinner J.,0,0.1916272342205047
+2025-01-18,Australian Open,Hard,3rd Round,Rune H.,Kecmanovic M.,1,0.4640824794769287
+2025-01-19,Australian Open,Hard,4th Round,Davidovich Fokina A.,Paul T.,0,0.3574685156345367
+2025-01-19,Australian Open,Hard,4th Round,Draper J.,Alcaraz C.,0,0.2224559336900711
+2025-01-19,Australian Open,Hard,4th Round,Humbert U.,Zverev A.,0,0.2062645405530929
+2025-01-19,Australian Open,Hard,4th Round,Djokovic N.,Lehecka J.,1,0.8446645736694336
+2025-01-20,Australian Open,Hard,4th Round,Rune H.,Sinner J.,0,0.2199586033821106
+2025-01-20,Australian Open,Hard,4th Round,Tien L.,Sonego L.,0,0.3020890355110168
+2025-01-20,Australian Open,Hard,4th Round,Monfils G.,Shelton B.,0,0.801548421382904
+2025-01-20,Australian Open,Hard,4th Round,De Minaur A.,Michelsen A.,1,0.8767210245132446
+2025-01-21,Australian Open,Hard,Quarterfinals,Paul T.,Zverev A.,0,0.2482771128416061
+2025-01-21,Australian Open,Hard,Quarterfinals,Alcaraz C.,Djokovic N.,0,0.3638115525245666
+2025-01-22,Australian Open,Hard,Quarterfinals,Shelton B.,Sonego L.,1,0.3462122082710266
+2025-01-22,Australian Open,Hard,Quarterfinals,Sinner J.,De Minaur A.,1,0.2935630083084106
+2025-01-24,Australian Open,Hard,Semifinals,Djokovic N.,Zverev A.,0,0.5665633678436279
+2025-01-24,Australian Open,Hard,Semifinals,Shelton B.,Sinner J.,0,0.1689954847097396
+2025-01-26,Australian Open,Hard,The Final,Zverev A.,Sinner J.,0,0.5789448022842407
+2025-03-05,BNP Paribas Open,Hard,1st Round,Nishikori K.,Munar J.,1,0.4630346000194549
+2025-03-05,BNP Paribas Open,Hard,1st Round,Boyer T.,Vukic A.,1,0.3426068425178528
+2025-03-05,BNP Paribas Open,Hard,1st Round,Seyboth Wild T.,Muller A.,1,0.3902143836021423
+2025-03-05,BNP Paribas Open,Hard,1st Round,O Connell C.,Carballes Baena R.,1,0.4880867004394531
+2025-03-05,BNP Paribas Open,Hard,1st Round,Kecmanovic M.,Griekspoor T.,0,0.6056140661239624
+2025-03-05,BNP Paribas Open,Hard,1st Round,Bu Y.,Basavareddy N.,1,0.6068621873855591
+2025-03-05,BNP Paribas Open,Hard,1st Round,Martinez P.,Marozsan F.,0,0.4801917672157287
+2025-03-05,BNP Paribas Open,Hard,1st Round,Cobolli F.,Smith C.,0,0.6359518766403198
+2025-03-05,BNP Paribas Open,Hard,1st Round,Bautista Agut R.,Dzumhur D.,0,0.729146420955658
+2025-03-05,BNP Paribas Open,Hard,1st Round,Opelka R.,Safiullin R.,0,0.4616342186927795
+2025-03-06,BNP Paribas Open,Hard,1st Round,Basilashvili N.,Giron M.,0,0.568851888179779
+2025-03-06,BNP Paribas Open,Hard,1st Round,Bergs Z.,Quinn E.,1,0.6034068465232849
+2025-03-06,BNP Paribas Open,Hard,1st Round,Moutet C.,Thompson J.,1,0.4683711528778076
+2025-03-06,BNP Paribas Open,Hard,1st Round,Nardi L.,Norrie C.,0,0.3471814095973968
+2025-03-06,BNP Paribas Open,Hard,1st Round,Watanuki Y.,Bublik A.,1,0.3097016513347626
+2025-03-06,BNP Paribas Open,Hard,1st Round,Hijikata R.,Shevchenko A.,1,0.3711001873016357
+2025-03-06,BNP Paribas Open,Hard,1st Round,Fonseca J.,Fearnley J.,1,0.3492284417152405
+2025-03-06,BNP Paribas Open,Hard,1st Round,Brooksby J.,Bonzi B.,1,0.4676572978496551
+2025-03-06,BNP Paribas Open,Hard,1st Round,Mensik J.,Etcheverry T.,1,0.4845020174980163
+2025-03-06,BNP Paribas Open,Hard,1st Round,McDonald M.,Davidovich Fokina A.,1,0.228242427110672
+2025-03-06,BNP Paribas Open,Hard,1st Round,Gigante M.,Baez S.,1,0.6366302967071533
+2025-03-06,BNP Paribas Open,Hard,1st Round,Kovacevic A.,Arnaldi M.,0,0.4324031472206116
+2025-03-06,BNP Paribas Open,Hard,1st Round,Struff J.L.,Monfils G.,0,0.2142934501171112
+2025-03-07,BNP Paribas Open,Hard,1st Round,Gaston H.,Darderi L.,1,0.4985761642456054
+2025-03-07,BNP Paribas Open,Hard,1st Round,Rinderknech A.,Borges N.,0,0.4293177723884582
+2025-03-07,BNP Paribas Open,Hard,1st Round,Goffin D.,Sonego L.,1,0.4316393733024597
+2025-03-07,BNP Paribas Open,Hard,1st Round,Walton A.,Zeppieri G.,1,0.3665907680988312
+2025-03-07,BNP Paribas Open,Hard,1st Round,Van De Zandschulp B.,Kyrgios N.,1,0.4825212061405182
+2025-03-07,BNP Paribas Open,Hard,1st Round,Tu L.,Lajovic D.,0,0.3711616396903991
+2025-03-07,BNP Paribas Open,Hard,1st Round,Halys Q.,Carreno Busta P.,1,0.3491898477077484
+2025-03-07,BNP Paribas Open,Hard,1st Round,Tien L.,Navone M.,0,0.5570511221885681
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Nishikori K.,Humbert U.,0,0.4084069728851318
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Griekspoor T.,Zverev A.,1,0.2386645078659057
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Boyer T.,Paul T.,0,0.2445567846298217
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Mpetshi G.,Marozsan F.,1,0.4658421874046325
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Popyrin A.,Bergs Z.,1,0.650484561920166
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Norrie C.,Lehecka J.,1,0.5098438858985901
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Giron M.,Ruud C.,1,0.4181847274303436
+2025-03-07,BNP Paribas Open,Hard,2nd Round,O Connell C.,Berrettini M.,0,0.6167750358581543
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Safiullin R.,Musetti L.,0,0.430087685585022
+2025-03-07,BNP Paribas Open,Hard,2nd Round,Michelsen A.,Smith C.,1,0.6397314071655273
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Rune H.,Moutet C.,1,0.6855437755584717
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Seyboth Wild T.,Tsitsipas S.,0,0.3721307516098022
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Fils A.,Diallo G.,1,0.5492823719978333
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Bu Y.,Medvedev D.,0,0.1508844494819641
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Watanuki Y.,Machac T.,1,0.472550481557846
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Tiafoe F.,Dzumhur D.,1,0.8675916194915771
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Gigante M.,Fritz T.,0,0.2223216444253921
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Auger-Aliassime F.,Brooksby J.,0,0.60172438621521
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Lajovic D.,Tabilo A.,0,0.3887714743614197
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Fonseca J.,Draper J.,0,0.2143392264842987
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Arnaldi M.,Rublev A.,1,0.1264873296022415
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Walton A.,Shapovalov D.,0,0.2351177483797073
+2025-03-08,BNP Paribas Open,Hard,2nd Round,McDonald M.,Cerundolo F.,0,0.1934596002101898
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Halys Q.,Alcaraz C.,0,0.2092110216617584
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Djokovic N.,Van De Zandschulp B.,0,0.7615794539451599
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Gaston H.,Hurkacz H.,0,0.183818370103836
+2025-03-08,BNP Paribas Open,Hard,2nd Round,Hijikata R.,Nakashima B.,0,0.373450219631195
+2025-03-09,BNP Paribas Open,Hard,2nd Round,Khachanov K.,Mensik J.,1,0.7176891565322876
+2025-03-09,BNP Paribas Open,Hard,2nd Round,Dimitrov G.,Borges N.,1,0.791964590549469
+2025-03-09,BNP Paribas Open,Hard,2nd Round,Navone M.,Shelton B.,0,0.3610052764415741
+2025-03-09,BNP Paribas Open,Hard,2nd Round,Goffin D.,De Minaur A.,0,0.2344527095556259
+2025-03-09,BNP Paribas Open,Hard,2nd Round,Korda S.,Monfils G.,0,0.2226965725421905
+2025-03-09,BNP Paribas Open,Hard,3rd Round,Norrie C.,Paul T.,0,0.4481610059738159
+2025-03-09,BNP Paribas Open,Hard,3rd Round,Griekspoor T.,Mpetshi G.,1,0.5262422561645508
+2025-03-09,BNP Paribas Open,Hard,3rd Round,Giron M.,Popyrin A.,1,0.4072368144989013
+2025-03-09,BNP Paribas Open,Hard,3rd Round,Tsitsipas S.,Berrettini M.,1,0.6634612083435059
+2025-03-09,BNP Paribas Open,Hard,3rd Round,Rune H.,Humbert U.,1,0.5384732484817505
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Fils A.,Musetti L.,1,0.4505980610847473
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Tiafoe F.,Watanuki Y.,0,0.7480344176292419
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Cerundolo F.,Van De Zandschulp B.,1,0.5061283111572266
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Draper J.,Brooksby J.,1,0.5825554132461548
+2025-03-10,BNP Paribas Open,Hard,3rd Round,De Minaur A.,Hurkacz H.,1,0.5155987739562988
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Fritz T.,Tabilo A.,1,0.6485036611557007
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Arnaldi M.,Nakashima B.,0,0.4746380448341369
+2025-03-10,BNP Paribas Open,Hard,3rd Round,Khachanov K.,Shelton B.,0,0.6414642333984375
+2025-03-11,BNP Paribas Open,Hard,3rd Round,Shapovalov D.,Alcaraz C.,0,0.3112021088600158
+2025-03-11,BNP Paribas Open,Hard,3rd Round,Dimitrov G.,Monfils G.,1,0.4803119301795959
+2025-03-11,BNP Paribas Open,Hard,4th Round,Griekspoor T.,Watanuki Y.,1,0.5617788434028625
+2025-03-11,BNP Paribas Open,Hard,4th Round,Rune H.,Tsitsipas S.,1,0.5463554263114929
+2025-03-11,BNP Paribas Open,Hard,4th Round,Fils A.,Giron M.,1,0.5176056623458862
+2025-03-12,BNP Paribas Open,Hard,4th Round,Medvedev D.,Paul T.,1,0.7769627571105957
+2025-03-12,BNP Paribas Open,Hard,4th Round,Nakashima B.,Shelton B.,0,0.4727529287338257
+2025-03-12,BNP Paribas Open,Hard,4th Round,Cerundolo F.,De Minaur A.,1,0.2098679542541504
+2025-03-12,BNP Paribas Open,Hard,4th Round,Fritz T.,Draper J.,0,0.6588268280029297
+2025-03-13,BNP Paribas Open,Hard,4th Round,Alcaraz C.,Dimitrov G.,1,0.433968037366867
+2025-03-13,BNP Paribas Open,Hard,Quarterfinals,Griekspoor T.,Rune H.,0,0.2998296618461609
+2025-03-13,BNP Paribas Open,Hard,Quarterfinals,Medvedev D.,Fils A.,1,0.88258957862854
+2025-03-14,BNP Paribas Open,Hard,Quarterfinals,Draper J.,Shelton B.,1,0.4719423055648803
+2025-03-14,BNP Paribas Open,Hard,Quarterfinals,Alcaraz C.,Cerundolo F.,1,0.6779776811599731
+2025-03-15,BNP Paribas Open,Hard,Semifinals,Rune H.,Medvedev D.,1,0.221009761095047
+2025-03-15,BNP Paribas Open,Hard,Semifinals,Alcaraz C.,Draper J.,0,0.6858807802200317
+2025-03-16,BNP Paribas Open,Hard,The Final,Draper J.,Rune H.,1,0.3588792979717254
+2025-03-19,Miami Open,Hard,1st Round,Vukic A.,Goffin D.,0,0.482736587524414
+2025-03-19,Miami Open,Hard,1st Round,Baez S.,Bublik A.,0,0.2109681367874145
+2025-03-19,Miami Open,Hard,1st Round,Hijikata R.,Medjedovic H.,1,0.5734460353851318
+2025-03-19,Miami Open,Hard,1st Round,Schoolkate T.,Quinn E.,1,0.5392763614654541
+2025-03-19,Miami Open,Hard,1st Round,Monfils G.,Marozsan F.,1,0.7911152839660645
+2025-03-19,Miami Open,Hard,1st Round,Cina F.,Comesana F.,1,0.3481115996837616
+2025-03-19,Miami Open,Hard,1st Round,Tseng C.H.,Bellucci M.,1,0.2410703748464584
+2025-03-19,Miami Open,Hard,1st Round,Ugo Carabelli C.,Holt B.,1,0.4525275230407715
+2025-03-19,Miami Open,Hard,1st Round,McDonald M.,Kyrgios N.,0,0.2515272498130798
+2025-03-19,Miami Open,Hard,1st Round,Blockx A.,Moutet C.,0,0.3743196129798889
+2025-03-19,Miami Open,Hard,1st Round,O Connell C.,Carballes Baena R.,0,0.5352944135665894
+2025-03-19,Miami Open,Hard,1st Round,Kovacevic A.,Kecmanovic M.,0,0.3653096854686737
+2025-03-19,Miami Open,Hard,1st Round,Sakamoto R.,Muller A.,0,0.2447713017463684
+2025-03-19,Miami Open,Hard,1st Round,Rinderknech A.,Munar J.,0,0.4995317757129669
+2025-03-20,Miami Open,Hard,1st Round,Harris B.,Spizzirri E.,0,0.433841198682785
+2025-03-20,Miami Open,Hard,1st Round,Halys Q.,Seyboth Wild T.,1,0.4892350137233734
+2025-03-20,Miami Open,Hard,1st Round,Borges N.,Bergs Z.,0,0.5736873149871826
+2025-03-20,Miami Open,Hard,1st Round,Bonzi B.,Fearnley J.,0,0.6037185192108154
+2025-03-20,Miami Open,Hard,1st Round,Cobolli F.,Tirante T.A.,0,0.6432479619979858
+2025-03-20,Miami Open,Hard,1st Round,Eubanks C.,Opelka R.,0,0.5199031829833984
+2025-03-20,Miami Open,Hard,1st Round,Gaston H.,Nishioka Y.,1,0.6148149967193604
+2025-03-20,Miami Open,Hard,1st Round,Wong C.,Altmaier D.,1,0.4084481596946716
+2025-03-20,Miami Open,Hard,1st Round,Darderi L.,Martinez P.,1,0.4993468523025512
+2025-03-20,Miami Open,Hard,1st Round,Norrie C.,Bu Y.,0,0.5358731150627136
+2025-03-20,Miami Open,Hard,1st Round,Thompson J.,Giron M.,1,0.5528576374053955
+2025-03-20,Miami Open,Hard,1st Round,Davidovich Fokina A.,Struff J.L.,1,0.5797450542449951
+2025-03-20,Miami Open,Hard,1st Round,Etcheverry T.,Diallo G.,0,0.5039254426956177
+2025-03-20,Miami Open,Hard,1st Round,Navone M.,Sonego L.,0,0.313334196805954
+2025-03-20,Miami Open,Hard,1st Round,Brooksby J.,Safiullin R.,0,0.519417405128479
+2025-03-20,Miami Open,Hard,1st Round,Wu Y.,Arnaldi M.,0,0.4762230515480041
+2025-03-20,Miami Open,Hard,1st Round,Fonseca J.,Tien L.,1,0.2745459973812103
+2025-03-20,Miami Open,Hard,1st Round,Mensik J.,Bautista Agut R.,1,0.4528530240058899
+2025-03-21,Miami Open,Hard,2nd Round,Schoolkate T.,Auger-Aliassime F.,0,0.3217010498046875
+2025-03-21,Miami Open,Hard,2nd Round,Cina F.,Dimitrov G.,0,0.0846728160977363
+2025-03-21,Miami Open,Hard,2nd Round,Ruud C.,Kecmanovic M.,1,0.4477187395095825
+2025-03-21,Miami Open,Hard,2nd Round,Musetti L.,Halys Q.,1,0.4953371882438659
+2025-03-21,Miami Open,Hard,2nd Round,Kyrgios N.,Khachanov K.,0,0.390057623386383
+2025-03-21,Miami Open,Hard,2nd Round,Ugo Carabelli C.,Michelsen A.,1,0.4070821404457092
+2025-03-21,Miami Open,Hard,2nd Round,Medvedev D.,Munar J.,0,0.846315324306488
+2025-03-21,Miami Open,Hard,2nd Round,Tseng C.H.,Tsitsipas S.,0,0.159041553735733
+2025-03-21,Miami Open,Hard,2nd Round,Monfils G.,Lehecka J.,1,0.7794221043586731
+2025-03-21,Miami Open,Hard,2nd Round,Hijikata R.,Djokovic N.,0,0.1582361161708831
+2025-03-21,Miami Open,Hard,2nd Round,Tabilo A.,Moutet C.,1,0.664634108543396
+2025-03-21,Miami Open,Hard,2nd Round,Carballes Baena R.,Nakashima B.,0,0.4792180955410003
+2025-03-21,Miami Open,Hard,2nd Round,Spizzirri E.,Korda S.,0,0.2060863375663757
+2025-03-21,Miami Open,Hard,2nd Round,Paul T.,Bublik A.,1,0.4504539966583252
+2025-03-22,Miami Open,Hard,2nd Round,Muller A.,Cerundolo F.,0,0.3355723023414612
+2025-03-22,Miami Open,Hard,2nd Round,Goffin D.,Alcaraz C.,1,0.300639659166336
+2025-03-22,Miami Open,Hard,2nd Round,Darderi L.,Walton A.,0,0.4515746235847473
+2025-03-22,Miami Open,Hard,2nd Round,Shelton B.,Wong C.,0,0.6782931685447693
+2025-03-22,Miami Open,Hard,2nd Round,Zverev A.,Fearnley J.,1,0.8319841027259827
+2025-03-22,Miami Open,Hard,2nd Round,Fritz T.,Sonego L.,1,0.5603805184364319
+2025-03-22,Miami Open,Hard,2nd Round,Machac T.,Arnaldi M.,1,0.5008094906806946
+2025-03-22,Miami Open,Hard,2nd Round,Mpetshi G.,Thompson J.,0,0.5335689783096313
+2025-03-22,Miami Open,Hard,2nd Round,Shapovalov D.,Tirante T.A.,1,0.7396150231361389
+2025-03-22,Miami Open,Hard,2nd Round,Mensik J.,Draper J.,1,0.4589178562164306
+2025-03-22,Miami Open,Hard,2nd Round,Popyrin A.,Safiullin R.,0,0.6058522462844849
+2025-03-22,Miami Open,Hard,2nd Round,Opelka R.,Rune H.,1,0.3050046265125274
+2025-03-22,Miami Open,Hard,2nd Round,Fonseca J.,Humbert U.,1,0.2400479465723037
+2025-03-22,Miami Open,Hard,2nd Round,Bergs Z.,Rublev A.,1,0.1139046400785446
+2025-03-22,Miami Open,Hard,2nd Round,Berrettini M.,Gaston H.,1,0.547338604927063
+2025-03-22,Miami Open,Hard,2nd Round,Tiafoe F.,Davidovich Fokina A.,1,0.7805772423744202
+2025-03-23,Miami Open,Hard,2nd Round,De Minaur A.,Bu Y.,1,0.7924929857254028
+2025-03-23,Miami Open,Hard,2nd Round,Diallo G.,Fils A.,0,0.4856370091438293
+2025-03-23,Miami Open,Hard,3rd Round,Khachanov K.,Dimitrov G.,0,0.384515643119812
+2025-03-23,Miami Open,Hard,3rd Round,Musetti L.,Auger-Aliassime F.,1,0.541726291179657
+2025-03-23,Miami Open,Hard,3rd Round,Korda S.,Tsitsipas S.,1,0.4243326783180237
+2025-03-23,Miami Open,Hard,3rd Round,Nakashima B.,Goffin D.,1,0.4632607400417328
+2025-03-23,Miami Open,Hard,3rd Round,Ugo Carabelli C.,Djokovic N.,0,0.1062272042036056
+2025-03-23,Miami Open,Hard,3rd Round,Munar J.,Monfils G.,0,0.2109420895576477
+2025-03-24,Miami Open,Hard,3rd Round,Tabilo A.,Ruud C.,0,0.454903244972229
+2025-03-24,Miami Open,Hard,3rd Round,Paul T.,Cerundolo F.,0,0.5067235827445984
+2025-03-24,Miami Open,Hard,3rd Round,Machac T.,Opelka R.,1,0.6343450546264648
+2025-03-24,Miami Open,Hard,3rd Round,Wong C.,Walton A.,0,0.4142574965953827
+2025-03-24,Miami Open,Hard,3rd Round,Thompson J.,Zverev A.,0,0.2563578188419342
+2025-03-24,Miami Open,Hard,3rd Round,Fritz T.,Shapovalov D.,1,0.5975926518440247
+2025-03-24,Miami Open,Hard,3rd Round,Mensik J.,Safiullin R.,1,0.5474517941474915
+2025-03-24,Miami Open,Hard,3rd Round,Fils A.,Tiafoe F.,1,0.263894110918045
+2025-03-24,Miami Open,Hard,3rd Round,Berrettini M.,Bergs Z.,1,0.565066397190094
+2025-03-24,Miami Open,Hard,3rd Round,Fonseca J.,De Minaur A.,0,0.0633733496069908
+2025-03-25,Miami Open,Hard,4th Round,Dimitrov G.,Nakashima B.,1,0.7460833787918091
+2025-03-25,Miami Open,Hard,4th Round,Monfils G.,Korda S.,0,0.6446163654327393
+2025-03-25,Miami Open,Hard,4th Round,Cerundolo F.,Ruud C.,1,0.5237880945205688
+2025-03-25,Miami Open,Hard,4th Round,Musetti L.,Djokovic N.,0,0.2270164489746093
+2025-03-25,Miami Open,Hard,4th Round,De Minaur A.,Berrettini M.,0,0.8561363220214844
+2025-03-25,Miami Open,Hard,4th Round,Fritz T.,Walton A.,1,0.7366625070571899
+2025-03-26,Miami Open,Hard,4th Round,Zverev A.,Fils A.,0,0.8148621916770935
+2025-03-26,Miami Open,Hard,Quarterfinals,Dimitrov G.,Cerundolo F.,1,0.7022467851638794
+2025-03-27,Miami Open,Hard,Quarterfinals,Fils A.,Mensik J.,0,0.4859151542186737
+2025-03-27,Miami Open,Hard,Quarterfinals,Djokovic N.,Korda S.,1,0.7404390573501587
+2025-03-27,Miami Open,Hard,Quarterfinals,Fritz T.,Berrettini M.,1,0.7900097966194153
+2025-03-28,Miami Open,Hard,Semifinals,Dimitrov G.,Djokovic N.,0,0.4520173966884613
+2025-03-28,Miami Open,Hard,Semifinals,Fritz T.,Mensik J.,0,0.7031280398368835
+2025-03-31,Miami Open,Hard,The Final,Mensik J.,Djokovic N.,1,0.1879768520593643
+2025-04-06,Monte Carlo Masters,Clay,1st Round,Struff J.L.,Vacherot V.,0,0.4957718253135681
+2025-04-06,Monte Carlo Masters,Clay,1st Round,Arnaldi M.,Gasquet R.,0,0.5201389789581299
+2025-04-06,Monte Carlo Masters,Clay,1st Round,Mpetshi G.,Thompson J.,0,0.3194411098957062
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Tabilo A.,Wawrinka S.,1,0.4838924407958984
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Shapovalov D.,Giron M.,0,0.5694606304168701
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Korda S.,Lehecka J.,0,0.5297278165817261
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Monfils G.,Marozsan F.,1,0.5174534320831299
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Altmaier D.,Auger-Aliassime F.,1,0.4985830783843994
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Musetti L.,Bu Y.,1,0.6192536354064941
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Berrettini M.,Navone M.,1,0.5082539319992065
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Ugo Carabelli C.,Muller A.,0,0.3468035757541656
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Khachanov K.,Medvedev D.,0,0.4301972389221191
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Shelton B.,Davidovich Fokina A.,0,0.4816485047340393
+2025-04-07,Monte Carlo Masters,Clay,1st Round,Fognini F.,Cerundolo F.,0,0.4482887685298919
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Jarry N.,Dimitrov G.,0,0.3195129036903381
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Martinez P.,Sonego L.,1,0.3208609819412231
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Popyrin A.,Humbert U.,1,0.4482573270797729
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Bautista Agut R.,Nakashima B.,1,0.649676501750946
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Borges N.,Rune H.,1,0.3636727929115295
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Cobolli F.,Lajovic D.,1,0.458009272813797
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Moutet C.,Etcheverry T.,0,0.3765987157821655
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Baez S.,Machac T.,0,0.3727782964706421
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Griekspoor T.,Fils A.,0,0.4803447127342224
+2025-04-08,Monte Carlo Masters,Clay,1st Round,Tiafoe F.,Kecmanovic M.,1,0.5138025283813477
+2025-04-08,Monte Carlo Masters,Clay,2nd Round,Zverev A.,Berrettini M.,0,0.8251460194587708
+2025-04-08,Monte Carlo Masters,Clay,2nd Round,Thompson J.,Tsitsipas S.,0,0.1611135751008987
+2025-04-08,Monte Carlo Masters,Clay,2nd Round,Draper J.,Giron M.,1,0.5123357772827148
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Etcheverry T.,Davidovich Fokina A.,0,0.4754077494144439
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Musetti L.,Lehecka J.,1,0.682287335395813
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Altmaier D.,Gasquet R.,1,0.4232099056243896
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Martinez P.,Borges N.,0,0.4977805614471435
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Fils A.,Cobolli F.,1,0.5575745701789856
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Monfils G.,Rublev A.,0,0.2986581325531006
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Cerundolo F.,Alcaraz C.,0,0.3251547217369079
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Machac T.,De Minaur A.,0,0.2350298911333084
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Ruud C.,Bautista Agut R.,1,0.4362108707427978
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Djokovic N.,Tabilo A.,0,0.8800910115242004
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Popyrin A.,Tiafoe F.,1,0.544370174407959
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Dimitrov G.,Vacherot V.,1,0.8014785051345825
+2025-04-09,Monte Carlo Masters,Clay,2nd Round,Muller A.,Medvedev D.,0,0.2090096473693847
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Rublev A.,Fils A.,0,0.6927850246429443
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Draper J.,Davidovich Fokina A.,0,0.4094400405883789
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Popyrin A.,Ruud C.,1,0.3463405668735504
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Altmaier D.,Alcaraz C.,0,0.3591704368591308
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Musetti L.,Berrettini M.,1,0.5775786638259888
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,De Minaur A.,Medvedev D.,1,0.388586163520813
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Tsitsipas S.,Borges N.,1,0.7025171518325806
+2025-04-10,Monte Carlo Masters,Clay,3rd Round,Tabilo A.,Dimitrov G.,0,0.259751945734024
+2025-04-11,Monte Carlo Masters,Clay,Quarterfinals,Davidovich Fokina A.,Popyrin A.,1,0.5391941666603088
+2025-04-11,Monte Carlo Masters,Clay,Quarterfinals,Alcaraz C.,Fils A.,1,0.6075478196144104
+2025-04-11,Monte Carlo Masters,Clay,Quarterfinals,Dimitrov G.,De Minaur A.,0,0.6159766912460327
+2025-04-11,Monte Carlo Masters,Clay,Quarterfinals,Musetti L.,Tsitsipas S.,1,0.3236750364303589
+2025-04-12,Monte Carlo Masters,Clay,Semifinals,Davidovich Fokina A.,Alcaraz C.,0,0.4192219972610473
+2025-04-12,Monte Carlo Masters,Clay,Semifinals,Musetti L.,De Minaur A.,1,0.4297912716865539
+2025-04-13,Monte Carlo Masters,Clay,The Final,Alcaraz C.,Musetti L.,1,0.5419415235519409
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Navone M.,Mpetshi G.,1,0.5609334707260132
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Safiullin R.,Rinderknech A.,0,0.4731235206127167
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Cina F.,Wong C.,1,0.3402720987796783
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Ugo Carabelli C.,O Connell C.,0,0.2539008557796478
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Cilic M.,Bonzi B.,0,0.5771076679229736
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Carreno Busta P.,Borges N.,0,0.4726651012897491
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Moutet C.,Mayot H.,0,0.4670974612236023
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Quinn E.,Lajovic D.,1,0.1967350989580154
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Bautista Agut R.,Munar J.,1,0.6646065711975098
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Ofner S.,Gaston H.,1,0.5212950110435486
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Fognini F.,Djere L.,0,0.4243406057357788
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Martinez P.,Comesana F.,0,0.6324450969696045
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Kovacevic A.,Cerundolo J.M.,0,0.4595731496810913
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Bublik A.,Michelsen A.,1,0.6598021984100342
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Monfils G.,Gojo B.,1,0.7380759716033936
+2025-04-23,Mutua Madrid Open,Clay,1st Round,Cobolli F.,Marozsan F.,1,0.4047338366508484
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Goffin D.,Muller A.,0,0.6262478828430176
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Nishikori K.,Vukic A.,1,0.5365935564041138
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Dzumhur D.,Bellucci M.,1,0.4413427710533142
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Medjedovic H.,Etcheverry T.,0,0.3134171664714813
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Bergs Z.,Diallo G.,0,0.4369670450687408
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Kecmanovic M.,Sonego L.,0,0.3021323084831238
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Halys Q.,Darderi L.,0,0.4329302906990051
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Jarry N.,Altmaier D.,1,0.465389996767044
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Landaluce M.,Norrie C.,0,0.2540353238582611
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Arnaldi M.,Coric B.,1,0.4135750532150268
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Van De Zandschulp B.,Struff J.L.,0,0.3271267116069793
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Moller E.,Fonseca J.,0,0.3325876891613006
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Tien L.,Giron M.,0,0.2608050405979156
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Griekspoor T.,Kopriva V.,1,0.629535436630249
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Opelka R.,Hijikata R.,1,0.47769695520401
+2025-04-24,Mutua Madrid Open,Clay,1st Round,Fearnley J.,Bu Y.,1,0.2739019393920898
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Bonzi B.,Hurkacz H.,1,0.2909276187419891
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Cerundolo F.,Mayot H.,1,0.5222946405410767
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Fils A.,Comesana F.,0,0.6484804153442383
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Rinderknech A.,Ruud C.,0,0.3075430989265442
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Cerundolo J.M.,Auger-Aliassime F.,1,0.2461406886577606
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Bublik A.,Popyrin A.,1,0.569019079208374
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Korda S.,Cina F.,1,0.7429105043411255
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Mensik J.,Quinn E.,1,0.4454798698425293
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Bautista Agut R.,Zverev A.,0,0.4462259411811828
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,O Connell C.,Fritz T.,0,0.3065316677093506
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Nakashima B.,Ofner S.,1,0.387728214263916
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Navone M.,Shelton B.,0,0.3890303075313568
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Borges N.,Davidovich Fokina A.,0,0.4360575973987579
+2025-04-25,Mutua Madrid Open,Clay,2nd Round,Cobolli F.,Rune H.,1,0.2848858833312988
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Nishikori K.,Shapovalov D.,0,0.4206799268722534
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Musetti L.,Etcheverry T.,1,0.5358874201774597
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Baez S.,Dzumhur D.,0,0.4081276655197143
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Lehecka J.,Norrie C.,0,0.4081752300262451
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,De Minaur A.,Sonego L.,1,0.5016636848449707
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Majchrzak K.,Diallo G.,0,0.468120276927948
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Tsitsipas S.,Struff J.L.,1,0.6546499133110046
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Arnaldi M.,Djokovic N.,1,0.2041630148887634
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Machac T.,Fearnley J.,0,0.5577155947685242
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Dimitrov G.,Jarry N.,1,0.7094693183898926
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Muller A.,Humbert U.,1,0.3988174796104431
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Berrettini M.,Giron M.,1,0.4932374358177185
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Draper J.,Griekspoor T.,1,0.4864012598991394
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Darderi L.,Tiafoe F.,0,0.4124488830566406
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Khachanov K.,Opelka R.,1,0.8216521143913269
+2025-04-26,Mutua Madrid Open,Clay,2nd Round,Paul T.,Fonseca J.,1,0.5742411017417908
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Nakashima B.,Cobolli F.,1,0.4138064682483673
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Rublev A.,Bublik A.,0,0.6410802602767944
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Zverev A.,Davidovich Fokina A.,1,0.7379305958747864
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Medvedev D.,Cerundolo J.M.,1,0.7788913249969482
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Fritz T.,Bonzi B.,1,0.5422179698944092
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Shelton B.,Mensik J.,0,0.4832668304443359
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Comesana F.,Cerundolo F.,0,0.2159171402454376
+2025-04-27,Mutua Madrid Open,Clay,3rd Round,Ruud C.,Korda S.,1,0.5769624710083008
+2025-04-28,Mutua Madrid Open,Clay,3rd Round,Arnaldi M.,Dzumhur D.,1,0.5960469245910645
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,De Minaur A.,Shapovalov D.,1,0.6034396886825562
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Paul T.,Khachanov K.,1,0.279799222946167
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Tiafoe F.,Muller A.,1,0.3966313898563385
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Norrie C.,Diallo G.,0,0.6197885274887085
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Fearnley J.,Dimitrov G.,0,0.1033956557512283
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Berrettini M.,Draper J.,0,0.402029275894165
+2025-04-29,Mutua Madrid Open,Clay,3rd Round,Musetti L.,Tsitsipas S.,1,0.3707756400108337
+2025-04-29,Mutua Madrid Open,Clay,4th Round,Bublik A.,Mensik J.,0,0.6550655961036682
+2025-04-29,Mutua Madrid Open,Clay,4th Round,Zverev A.,Cerundolo F.,0,0.7752661108970642
+2025-04-29,Mutua Madrid Open,Clay,4th Round,Medvedev D.,Nakashima B.,1,0.7503592371940613
+2025-04-29,Mutua Madrid Open,Clay,4th Round,Fritz T.,Ruud C.,0,0.4190486073493957
+2025-04-30,Mutua Madrid Open,Clay,4th Round,Arnaldi M.,Tiafoe F.,1,0.5041021108627319
+2025-04-30,Mutua Madrid Open,Clay,4th Round,Draper J.,Paul T.,1,0.4776352047920227
+2025-04-30,Mutua Madrid Open,Clay,4th Round,Dimitrov G.,Diallo G.,0,0.8598568439483643
+2025-04-30,Mutua Madrid Open,Clay,4th Round,De Minaur A.,Musetti L.,0,0.5789037942886353
+2025-05-01,Mutua Madrid Open,Clay,Quarterfinals,Medvedev D.,Ruud C.,0,0.6016170978546143
+2025-05-01,Mutua Madrid Open,Clay,Quarterfinals,Cerundolo F.,Mensik J.,1,0.5088071823120117
+2025-05-01,Mutua Madrid Open,Clay,Quarterfinals,Arnaldi M.,Draper J.,0,0.4203233122825622
+2025-05-01,Mutua Madrid Open,Clay,Quarterfinals,Musetti L.,Diallo G.,1,0.6971155405044556
+2025-05-02,Mutua Madrid Open,Clay,Semifinals,Cerundolo F.,Ruud C.,0,0.312263160943985
+2025-05-02,Mutua Madrid Open,Clay,Semifinals,Musetti L.,Draper J.,0,0.5078322887420654
+2025-05-03,Mutua Madrid Open,Clay,The Final,Draper J.,Ruud C.,0,0.3457098007202148
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Comesana F.,Altmaier D.,1,0.2357827723026275
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Hijikata R.,Moutet C.,0,0.3300307393074035
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Muller A.,Lehecka J.,1,0.472541868686676
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Thompson J.,Mpetshi G.,1,0.5632861256599426
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Carreno Busta P.,Ugo Carabelli C.,0,0.6931182146072388
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Kovacevic A.,Taberner C.,0,0.4489323496818542
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Kecmanovic M.,Griekspoor T.,0,0.4742761850357055
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Burruchaga R.,Sonego L.,1,0.1167859733104705
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Kopriva V.,Halys Q.,1,0.2974984049797058
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Nishioka Y.,Lajovic D.,0,0.3890255689620971
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Norrie C.,O Connell C.,1,0.5045621395111084
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Tseng C.H.,Passaro F.,0,0.3416642844676971
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Medjedovic H.,Virtanen O.,0,0.6005154848098755
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Etcheverry T.,Djere L.,0,0.4815601706504822
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Dzumhur D.,Gaubas V.,0,0.6112663745880127
+2025-05-07,Internazionali BNL d'Italia,Clay,1st Round,Bu Y.,Darderi L.,0,0.280037373304367
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Shevchenko A.,De Jong J.,0,0.5994527339935303
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Bautista Agut R.,Arnaldi M.,1,0.6661619544029236
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Gaston H.,Jarry N.,0,0.2945455610752105
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Moreno De Alboran N.,Vukic A.,0,0.2383702099323272
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Cina F.,Navone M.,0,0.2440536767244339
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Marozsan F.,Fonseca J.,1,0.6320102214813232
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Seyboth Wild T.,Borges N.,1,0.3585485219955444
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Munar J.,Barrios M.,1,0.6967374086380005
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Nardi L.,Cobolli F.,1,0.3603146076202392
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Rinderknech A.,Gigante M.,0,0.5649449825286865
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Diallo G.,Giron M.,0,0.3110941648483276
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Safiullin R.,Bublik A.,0,0.3598422408103943
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Carballes Baena R.,Ofner S.,0,0.4874848425388336
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Bellucci M.,Martinez P.,0,0.2566214799880981
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Fognini F.,Fearnley J.,0,0.6164114475250244
+2025-05-08,Internazionali BNL d'Italia,Clay,1st Round,Opelka R.,Tien L.,0,0.505513072013855
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Passaro F.,Dimitrov G.,1,0.1116467714309692
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Khachanov K.,Burruchaga R.,1,0.7793693542480469
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Griekspoor T.,Fils A.,0,0.4701766967773437
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Popyrin A.,Taberner C.,1,0.5994985699653625
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Alcaraz C.,Lajovic D.,1,0.6584925055503845
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Tsitsipas S.,Muller A.,1,0.7512272000312805
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Djere L.,Michelsen A.,1,0.6231952905654907
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Musetti L.,Virtanen O.,1,0.7946957349777222
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Medvedev D.,Norrie C.,1,0.739252507686615
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Moutet C.,Humbert U.,0,0.367852509021759
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Kopriva V.,Baez S.,1,0.4161199927330017
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Shapovalov D.,Gaubas V.,0,0.7925647497177124
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Rune H.,Comesana F.,1,0.7506596446037292
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Darderi L.,Draper J.,0,0.3469294607639313
+2025-05-09,Internazionali BNL d'Italia,Clay,2nd Round,Ugo Carabelli C.,Zverev A.,0,0.1134225651621818
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Bautista Agut R.,Paul T.,0,0.7042878866195679
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Fearnley J.,Berrettini M.,0,0.2584142982959747
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Rublev A.,Marozsan F.,0,0.765082836151123
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Tiafoe F.,Ofner S.,0,0.4123133718967438
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Machac T.,Tien L.,1,0.4926226139068603
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Korda S.,Vukic A.,1,0.5661580562591553
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Hurkacz H.,Martinez P.,1,0.6627493500709534
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Bublik A.,Ruud C.,0,0.3789672255516052
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Giron M.,Fritz T.,1,0.3347275853157043
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,De Jong J.,Davidovich Fokina A.,1,0.2254094779491424
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Gigante M.,Mensik J.,0,0.3534612655639648
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Cerundolo F.,Jarry N.,1,0.422726035118103
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Dellien H.,Seyboth Wild T.,1,0.4000722765922546
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Munar J.,Shelton B.,1,0.4879902601242065
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Navone M.,Sinner J.,0,0.1973339915275573
+2025-05-10,Internazionali BNL d'Italia,Clay,2nd Round,Nardi L.,De Minaur A.,0,0.2568318843841553
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Medvedev D.,Popyrin A.,1,0.7483775615692139
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Fils A.,Tsitsipas S.,1,0.2144590616226196
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Rune H.,Moutet C.,0,0.6920503973960876
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Musetti L.,Nakashima B.,1,0.60591721534729
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Gaubas V.,Zverev A.,0,0.0611336231231689
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Draper J.,Kopriva V.,1,0.6438735127449036
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Khachanov K.,Passaro F.,1,0.8131517767906189
+2025-05-11,Internazionali BNL d'Italia,Clay,3rd Round,Alcaraz C.,Djere L.,1,0.6278907060623169
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Machac T.,Paul T.,0,0.3650197684764862
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,De Minaur A.,Dellien H.,1,0.7311077117919922
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Mensik J.,Marozsan F.,1,0.3264670670032501
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Giron M.,Hurkacz H.,0,0.2490652650594711
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Ofner S.,Cerundolo F.,0,0.4238661229610443
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Sinner J.,De Jong J.,1,0.8715065121650696
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Munar J.,Korda S.,1,0.3616498112678528
+2025-05-12,Internazionali BNL d'Italia,Clay,3rd Round,Ruud C.,Berrettini M.,1,0.7415093183517456
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Khachanov K.,Alcaraz C.,0,0.5469166040420532
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Moutet C.,Draper J.,0,0.3786671757698059
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Hurkacz H.,Mensik J.,1,0.7021508812904358
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Medvedev D.,Musetti L.,0,0.6631730794906616
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Sinner J.,Cerundolo F.,1,0.7503272294998169
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Fils A.,Zverev A.,0,0.2303125709295272
+2025-05-13,Internazionali BNL d'Italia,Clay,4th Round,Paul T.,De Minaur A.,1,0.2979649007320404
+2025-05-14,Internazionali BNL d'Italia,Clay,4th Round,Ruud C.,Munar J.,1,0.7137296795845032
+2025-05-14,Internazionali BNL d'Italia,Clay,Quarterfinals,Draper J.,Alcaraz C.,0,0.3395368456840515
+2025-05-14,Internazionali BNL d'Italia,Clay,Quarterfinals,Zverev A.,Musetti L.,0,0.7355267405509949
+2025-05-15,Internazionali BNL d'Italia,Clay,Quarterfinals,Paul T.,Hurkacz H.,1,0.2624400556087494
+2025-05-15,Internazionali BNL d'Italia,Clay,Quarterfinals,Ruud C.,Sinner J.,0,0.4925240278244018
+2025-05-16,Internazionali BNL d'Italia,Clay,Semifinals,Musetti L.,Alcaraz C.,0,0.4394433498382568
+2025-05-16,Internazionali BNL d'Italia,Clay,Semifinals,Paul T.,Sinner J.,0,0.2156750410795211
+2025-05-18,Internazionali BNL d'Italia,Clay,The Final,Alcaraz C.,Sinner J.,1,0.4355415403842926
+2025-05-25,French Open,Clay,1st Round,Fucsovics M.,Schoolkate T.,1,0.8091821670532227
+2025-05-25,French Open,Clay,1st Round,Majchrzak K.,Medjedovic H.,0,0.2909854054450989
+2025-05-25,French Open,Clay,1st Round,Paul T.,Moller E.,1,0.6564369201660156
+2025-05-25,French Open,Clay,1st Round,Navone M.,Nakashima B.,1,0.3176760673522949
+2025-05-25,French Open,Clay,1st Round,Bergs Z.,Mpetshi G.,0,0.5457490682601929
+2025-05-25,French Open,Clay,1st Round,Hijikata R.,Opelka R.,0,0.4300653338432312
+2025-05-25,French Open,Clay,1st Round,Comesana F.,Carreno Busta P.,0,0.1622513234615326
+2025-05-25,French Open,Clay,1st Round,Dzumhur D.,Tirante T.A.,1,0.4956851899623871
+2025-05-25,French Open,Clay,1st Round,Kopriva V.,Monteiro T.,1,0.2203940451145172
+2025-05-25,French Open,Clay,1st Round,Hanfmann Y.,Musetti L.,0,0.3059169054031372
+2025-05-25,French Open,Clay,1st Round,Cerundolo J.M.,Michelsen A.,1,0.3458108901977539
+2025-05-25,French Open,Clay,1st Round,Galan D.E.,Royer V.,1,0.3580192923545837
+2025-05-25,French Open,Clay,1st Round,Safiullin R.,Tiafoe F.,0,0.4223781824111938
+2025-05-25,French Open,Clay,1st Round,Nardi L.,Marozsan F.,0,0.3460508286952972
+2025-05-25,French Open,Clay,1st Round,Gigante M.,Hassan B.,1,0.4135458469390869
+2025-05-25,French Open,Clay,1st Round,Nava E.,Van De Zandschulp B.,1,0.1449614018201828
+2025-05-25,French Open,Clay,1st Round,Faria J.,Brooksby J.,0,0.1328103691339492
+2025-05-25,French Open,Clay,1st Round,Shelton B.,Sonego L.,1,0.1401685029268264
+2025-05-25,French Open,Clay,1st Round,Halys Q.,Machac T.,1,0.3737015128135681
+2025-05-25,French Open,Clay,1st Round,Borges N.,Jacquet K.,1,0.7563636302947998
+2025-05-26,French Open,Clay,1st Round,Darderi L.,Korda S.,0,0.2584836483001709
+2025-05-26,French Open,Clay,1st Round,Blanchet U.,Gaston H.,0,0.1314109712839126
+2025-05-26,French Open,Clay,1st Round,Baez S.,Kecmanovic M.,0,0.1960996240377426
+2025-05-26,French Open,Clay,1st Round,Nishioka Y.,Popyrin A.,0,0.2312728613615036
+2025-05-26,French Open,Clay,1st Round,Ramos A.,Ruud C.,0,0.0270306058228015
+2025-05-26,French Open,Clay,1st Round,Cazaux A.,Tabilo A.,0,0.1300633996725082
+2025-05-26,French Open,Clay,1st Round,Alcaraz C.,Zeppieri G.,1,0.7695637941360474
+2025-05-26,French Open,Clay,1st Round,Tsitsipas S.,Etcheverry T.,1,0.7144015431404114
+2025-05-26,French Open,Clay,1st Round,Llamas Ruiz P.,Davidovich Fokina A.,0,0.0855384320020675
+2025-05-26,French Open,Clay,1st Round,Altmaier D.,Fritz T.,1,0.272600769996643
+2025-05-26,French Open,Clay,1st Round,Bautista Agut R.,Rune H.,0,0.4462850093841553
+2025-05-26,French Open,Clay,1st Round,Fearnley J.,Wawrinka S.,1,0.2463077008724212
+2025-05-26,French Open,Clay,1st Round,Khachanov K.,Vukic A.,1,0.7662160396575928
+2025-05-26,French Open,Clay,1st Round,Cerundolo F.,Diallo G.,0,0.5922081470489502
+2025-05-26,French Open,Clay,1st Round,Lehecka J.,Thompson J.,1,0.4978472292423248
+2025-05-26,French Open,Clay,1st Round,Struff J.L.,Ofner S.,0,0.578219473361969
+2025-05-26,French Open,Clay,1st Round,Atmane T.,Gasquet R.,0,0.248246282339096
+2025-05-26,French Open,Clay,1st Round,Shapovalov D.,Martinez P.,1,0.5456543564796448
+2025-05-26,French Open,Clay,1st Round,Misolic F.,Bu Y.,1,0.244910329580307
+2025-05-26,French Open,Clay,1st Round,Jarry N.,Fils A.,0,0.4880179166793823
+2025-05-26,French Open,Clay,1st Round,Humbert U.,O Connell C.,1,0.5603350400924683
+2025-05-26,French Open,Clay,1st Round,Ugo Carabelli C.,Munar J.,0,0.2596533000469208
+2025-05-26,French Open,Clay,1st Round,Griekspoor T.,Giron M.,1,0.5084381103515625
+2025-05-26,French Open,Clay,1st Round,Sinner J.,Rinderknech A.,1,0.8747875690460205
+2025-05-27,French Open,Clay,1st Round,De Minaur A.,Djere L.,1,0.6873314380645752
+2025-05-27,French Open,Clay,1st Round,Kovacevic A.,Gomez F.A.,0,0.4823260307312011
+2025-05-27,French Open,Clay,1st Round,Norrie C.,Medvedev D.,1,0.1421461701393127
+2025-05-27,French Open,Clay,1st Round,Shevchenko A.,Lajovic D.,1,0.4281637072563171
+2025-05-27,French Open,Clay,1st Round,Dimitrov G.,Quinn E.,1,0.9164831638336182
+2025-05-27,French Open,Clay,1st Round,Duckworth J.,Bublik A.,0,0.0899274051189422
+2025-05-27,French Open,Clay,1st Round,Zverev A.,Tien L.,1,0.9223554134368896
+2025-05-27,French Open,Clay,1st Round,De Jong J.,Passaro F.,1,0.3769680261611938
+2025-05-27,French Open,Clay,1st Round,Muller A.,Mensik J.,0,0.5261840224266052
+2025-05-27,French Open,Clay,1st Round,Marterer M.,Walton A.,0,0.5161973237991333
+2025-05-27,French Open,Clay,1st Round,Herbert P.,Bonzi B.,1,0.0841322392225265
+2025-05-27,French Open,Clay,1st Round,McDonald M.,Djokovic N.,0,0.0087471371516585
+2025-05-27,French Open,Clay,1st Round,Basilashvili N.,Rocha H.,0,0.7225633859634399
+2025-05-27,French Open,Clay,1st Round,Harris L.,Rublev A.,0,0.1709645241498947
+2025-05-27,French Open,Clay,1st Round,Draper J.,Bellucci M.,1,0.6974942684173584
+2025-05-27,French Open,Clay,1st Round,Arnaldi M.,Auger-Aliassime F.,1,0.3356941342353821
+2025-05-27,French Open,Clay,1st Round,Cobolli F.,Cilic M.,1,0.2277295887470245
+2025-05-27,French Open,Clay,1st Round,Tabur C.,Moutet C.,0,0.1069176793098449
+2025-05-27,French Open,Clay,1st Round,Hurkacz H.,Fonseca J.,0,0.9106320142745972
+2025-05-27,French Open,Clay,1st Round,Dellien H.,Monfils G.,0,0.262905091047287
+2025-05-28,French Open,Clay,2nd Round,Galan D.E.,Musetti L.,0,0.0672615393996238
+2025-05-28,French Open,Clay,2nd Round,Medjedovic H.,Cerundolo J.M.,1,0.4806677997112274
+2025-05-28,French Open,Clay,2nd Round,Kopriva V.,Altmaier D.,0,0.2010221779346466
+2025-05-28,French Open,Clay,2nd Round,Popyrin A.,Tabilo A.,1,0.5349509716033936
+2025-05-28,French Open,Clay,2nd Round,Kecmanovic M.,Halys Q.,0,0.6545864343643188
+2025-05-28,French Open,Clay,2nd Round,Opelka R.,Navone M.,0,0.2790641486644745
+2025-05-28,French Open,Clay,2nd Round,Ruud C.,Borges N.,0,0.6719188094139099
+2025-05-28,French Open,Clay,2nd Round,Ofner S.,Khachanov K.,0,0.2775766551494598
+2025-05-28,French Open,Clay,2nd Round,Alcaraz C.,Marozsan F.,1,0.7015376091003418
+2025-05-28,French Open,Clay,2nd Round,Mpetshi G.,Dzumhur D.,0,0.1904541701078415
+2025-05-28,French Open,Clay,2nd Round,Paul T.,Fucsovics M.,1,0.3305300772190094
+2025-05-28,French Open,Clay,2nd Round,Gigante M.,Tsitsipas S.,1,0.092108204960823
+2025-05-28,French Open,Clay,2nd Round,Korda S.,Brooksby J.,1,0.6075751781463623
+2025-05-28,French Open,Clay,2nd Round,Carreno Busta P.,Tiafoe F.,0,0.502505362033844
+2025-05-28,French Open,Clay,2nd Round,Nava E.,Rune H.,0,0.0722918584942817
+2025-05-29,French Open,Clay,2nd Round,De Minaur A.,Bublik A.,0,0.6748671531677246
+2025-05-29,French Open,Clay,2nd Round,Davidovich Fokina A.,Lehecka J.,0,0.5441673398017883
+2025-05-29,French Open,Clay,2nd Round,Munar J.,Fils A.,0,0.4297796487808227
+2025-05-29,French Open,Clay,2nd Round,Mensik J.,Rocha H.,0,0.5447928309440613
+2025-05-29,French Open,Clay,2nd Round,De Jong J.,Zverev A.,0,0.0927172899246215
+2025-05-29,French Open,Clay,2nd Round,Diallo G.,Griekspoor T.,0,0.2302802503108978
+2025-05-29,French Open,Clay,2nd Round,Sinner J.,Gasquet R.,1,0.7976627349853516
+2025-05-29,French Open,Clay,2nd Round,Rublev A.,Walton A.,1,0.9194562435150146
+2025-05-29,French Open,Clay,2nd Round,Cobolli F.,Arnaldi M.,1,0.3568068742752075
+2025-05-29,French Open,Clay,2nd Round,Fonseca J.,Herbert P.,1,0.3976141214370727
+2025-05-29,French Open,Clay,2nd Round,Gomez F.A.,Norrie C.,0,0.0702573060989379
+2025-05-29,French Open,Clay,2nd Round,Shevchenko A.,Quinn E.,0,0.5747692584991455
+2025-05-29,French Open,Clay,2nd Round,Moutet C.,Djokovic N.,0,0.098704881966114
+2025-05-29,French Open,Clay,2nd Round,Misolic F.,Shapovalov D.,1,0.1059944778680801
+2025-05-29,French Open,Clay,2nd Round,Humbert U.,Fearnley J.,0,0.5444249510765076
+2025-05-29,French Open,Clay,2nd Round,Draper J.,Monfils G.,1,0.4099088609218597
+2025-05-30,French Open,Clay,3rd Round,Musetti L.,Navone M.,1,0.6397585272789001
+2025-05-30,French Open,Clay,3rd Round,Khachanov K.,Paul T.,0,0.7170780897140503
+2025-05-30,French Open,Clay,3rd Round,Borges N.,Popyrin A.,0,0.4900572299957275
+2025-05-30,French Open,Clay,3rd Round,Halys Q.,Rune H.,0,0.1124013885855674
+2025-05-30,French Open,Clay,3rd Round,Medjedovic H.,Altmaier D.,0,0.2954610884189605
+2025-05-30,French Open,Clay,3rd Round,Gigante M.,Shelton B.,0,0.2660974860191345
+2025-05-30,French Open,Clay,3rd Round,Tiafoe F.,Korda S.,1,0.2706435024738312
+2025-05-30,French Open,Clay,3rd Round,Dzumhur D.,Alcaraz C.,0,0.1250018775463104
+2025-05-31,French Open,Clay,3rd Round,Quinn E.,Griekspoor T.,0,0.1708527654409408
+2025-05-31,French Open,Clay,3rd Round,Lehecka J.,Sinner J.,0,0.1221892386674881
+2025-05-31,French Open,Clay,3rd Round,Cobolli F.,Zverev A.,0,0.1177141740918159
+2025-05-31,French Open,Clay,3rd Round,Draper J.,Fonseca J.,1,0.6954876184463501
+2025-05-31,French Open,Clay,3rd Round,Rocha H.,Bublik A.,0,0.0712790712714195
+2025-05-31,French Open,Clay,3rd Round,Norrie C.,Fearnley J.,1,0.4037283062934875
+2025-05-31,French Open,Clay,3rd Round,Djokovic N.,Misolic F.,1,0.9520525932312012
+2025-06-01,French Open,Clay,4th Round,Popyrin A.,Paul T.,0,0.6145378947257996
+2025-06-01,French Open,Clay,4th Round,Alcaraz C.,Shelton B.,1,0.7574462890625
+2025-06-01,French Open,Clay,4th Round,Tiafoe F.,Altmaier D.,1,0.414167582988739
+2025-06-01,French Open,Clay,4th Round,Rune H.,Musetti L.,0,0.5753183364868164
+2025-06-02,French Open,Clay,4th Round,Griekspoor T.,Zverev A.,0,0.2059717923402786
+2025-06-02,French Open,Clay,4th Round,Djokovic N.,Norrie C.,1,0.9065779447555542
+2025-06-02,French Open,Clay,4th Round,Draper J.,Bublik A.,0,0.414483904838562
+2025-06-02,French Open,Clay,4th Round,Sinner J.,Rublev A.,1,0.5541998744010925
+2025-06-03,French Open,Clay,Quarterfinals,Tiafoe F.,Musetti L.,0,0.2774428427219391
+2025-06-03,French Open,Clay,Quarterfinals,Alcaraz C.,Paul T.,1,0.7730783820152283
+2025-06-04,French Open,Clay,Quarterfinals,Sinner J.,Bublik A.,1,0.7315846681594849
+2025-06-04,French Open,Clay,Quarterfinals,Zverev A.,Djokovic N.,0,0.477092444896698
+2025-06-06,French Open,Clay,Semifinals,Alcaraz C.,Musetti L.,1,0.5900079607963562
+2025-06-06,French Open,Clay,Semifinals,Djokovic N.,Sinner J.,0,0.6796310544013977
+2025-06-08,French Open,Clay,The Final,Sinner J.,Alcaraz C.,0,0.6758119463920593

@@ -1,0 +1,21 @@
+# Direct dependencies only. Python 3.10.
+# torch is platform/CUDA specific: install it first (see README, "Setup and runtime").
+torch==2.11.0
+torch-geometric==2.5.3
+torch-geometric-signed-directed==1.0.1
+numpy==1.26.4
+pandas==2.3.3
+scipy==1.14.0
+scikit-learn==1.6.1
+statsmodels==0.13.5
+choix==0.3.6
+shin==0.1.0
+networkx==2.6.3
+optuna==4.4.0
+matplotlib==3.10.9
+seaborn==0.13.2
+rich==14.1.0
+tabulate==0.9.0
+tqdm==4.67.3
+openpyxl==3.1.2
+xlrd==2.0.2

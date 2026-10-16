@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pt
+.venv/
+.pytest_cache/
+data/raw_tennisdata/
+outputs/*_quick*
+outputs/logs/

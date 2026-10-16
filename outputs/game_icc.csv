@@ -1,0 +1,5 @@
+tour,scope,n_matches,n_repeat_pairs,n_repeat_matches,rho,rho_lo,rho_hi,m_bar,deff,n_eff,n_eff_m12,df_between,modal_bo3,f_modal,f_1311
+ATP,all matches,20181,3954,11874,0.0075,0.0061,0.0089,27.6,1.2,23.0,11.1,7920,6-3 6-4,0.134,0.354
+ATP,same surface,20181,3134,8268,0.0064,0.0047,0.008,27.6,1.17,23.6,11.2,5134,,,
+WTA,all matches,19985,3982,11854,0.0333,0.0311,0.0355,21.7,1.69,12.8,8.8,7872,6-3 6-2,0.076,0.379
+WTA,same surface,19985,3081,8084,0.0338,0.0309,0.0364,21.7,1.7,12.8,8.7,5003,,,

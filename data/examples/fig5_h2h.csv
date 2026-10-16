@@ -1,0 +1,74 @@
+year,surface,raw_surface,winner,loser,score,walkover,w_games,l_games,w_sets,l_sets
+2012,Clay,Clay,Nadal,Davydenko,62 62,False,12,4,2,0
+2011,Hard,Hard,Davydenko,Nadal,63 62,False,12,5,2,0
+2010,Hard,Hard,Davydenko,Nadal,06 76(8) 64,False,13,16,2,1
+2009,Hard,Hard,Davydenko,Nadal,61 76(4),False,13,7,2,0
+2009,Hard,Hard,Davydenko,Nadal,76(3) 63,False,13,9,2,0
+2009,Clay,Clay,Nadal,Davydenko,63 62,False,12,5,2,0
+2008,Hard,Hard,Davydenko,Nadal,61 RET,False,6,1,1,0
+2008,Clay,Clay,Nadal,Davydenko,63 62,False,12,5,2,0
+2008,Hard,Hard,Davydenko,Nadal,64 62,False,12,6,2,0
+2007,Clay,Clay,Nadal,Davydenko,76(3) 67(8) 64,False,19,17,2,1
+2006,Hard,Hard,Nadal,Davydenko,57 64 64,False,17,15,2,1
+2019,Grass,Grass,Federer,Nadal,76(3) 16 63 64,False,20,19,3,1
+2019,Clay,Clay,Nadal,Federer,63 64 62,False,18,9,3,0
+2019,Hard,Hard,Federer,Nadal,W/O,True,0,0,0,0
+2017,Hard,Hard,Federer,Nadal,64 63,False,12,7,2,0
+2017,Hard,Hard,Federer,Nadal,63 64,False,12,7,2,0
+2017,Hard,Hard,Federer,Nadal,62 63,False,12,5,2,0
+2017,Hard,Hard,Federer,Nadal,64 36 61 36 63,False,24,20,3,2
+2015,Hard,Hard,Federer,Nadal,63 57 63,False,17,13,2,1
+2014,Hard,Hard,Nadal,Federer,76(4) 63 63,False,19,12,3,0
+2013,Hard,Hard,Nadal,Federer,75 63,False,13,8,2,0
+2013,Hard,Hard,Nadal,Federer,57 64 63,False,17,14,2,1
+2013,Clay,Clay,Nadal,Federer,61 63,False,12,4,2,0
+2013,Hard,Hard,Nadal,Federer,64 62,False,12,6,2,0
+2012,Hard,Hard,Federer,Nadal,63 64,False,12,7,2,0
+2012,Hard,Hard,Nadal,Federer,67(5) 62 76(5) 64,False,25,19,3,1
+2011,Hard,Hard,Federer,Nadal,63 60,False,12,3,2,0
+2011,Clay,Clay,Nadal,Federer,75 76(3) 57 61,False,25,19,3,1
+2011,Clay,Clay,Nadal,Federer,57 61 63,False,17,11,2,1
+2011,Hard,Hard,Nadal,Federer,63 62,False,12,5,2,0
+2010,Hard,Hard,Federer,Nadal,63 36 61,False,15,10,2,1
+2010,Clay,Clay,Nadal,Federer,64 76(5),False,13,10,2,0
+2009,Clay,Clay,Federer,Nadal,64 64,False,12,8,2,0
+2009,Hard,Hard,Nadal,Federer,75 36 76(3) 36 62,False,26,25,3,2
+2008,Grass,Grass,Nadal,Federer,64 64 67(5) 67(8) 97,False,33,29,3,2
+2008,Clay,Clay,Nadal,Federer,61 63 60,False,18,4,3,0
+2008,Clay,Clay,Nadal,Federer,75 67(3) 63,False,19,15,2,1
+2008,Clay,Clay,Nadal,Federer,75 75,False,14,10,2,0
+2007,Hard,Hard,Federer,Nadal,64 61,False,12,5,2,0
+2007,Grass,Grass,Federer,Nadal,76(7) 46 76(3) 26 62,False,26,26,3,2
+2007,Clay,Clay,Nadal,Federer,63 46 63 64,False,22,16,3,1
+2007,Clay,Clay,Federer,Nadal,26 62 60,False,14,8,2,1
+2007,Clay,Clay,Nadal,Federer,64 64,False,12,8,2,0
+2006,Hard,Hard,Federer,Nadal,64 75,False,13,9,2,0
+2006,Grass,Grass,Federer,Nadal,60 76(5) 67(2) 63,False,25,16,3,1
+2006,Clay,Clay,Nadal,Federer,16 61 64 76(4),False,20,17,3,1
+2006,Clay,Clay,Nadal,Federer,67(0) 76(5) 64 26 76(5),False,28,29,3,2
+2006,Clay,Clay,Nadal,Federer,62 67(2) 63 76(5),False,25,18,3,1
+2006,Hard,Hard,Nadal,Federer,26 64 64,False,14,14,2,1
+2005,Clay,Clay,Nadal,Federer,63 46 64 63,False,22,16,3,1
+2005,Hard,Hard,Federer,Nadal,26 67(4) 76(5) 63 61,False,27,23,3,2
+2004,Hard,Hard,Nadal,Federer,63 63,False,12,6,2,0
+2013,Hard,Hard,Federer,Davydenko,62 62,False,12,4,2,0
+2013,Hard,Hard,Federer,Davydenko,63 64 64,False,18,11,3,0
+2012,Hard,Hard,Federer,Davydenko,46 63 64,False,16,13,2,1
+2012,Hard,Hard,Federer,Davydenko,62 62,False,12,4,2,0
+2011,Hard,Hard,Federer,Davydenko,63 64,False,12,7,2,0
+2010,Hard,Hard,Federer,Davydenko,64 75,False,13,9,2,0
+2010,Hard,Hard,Federer,Davydenko,26 63 60 75,False,21,14,3,1
+2010,Hard,Hard,Davydenko,Federer,64 64,False,12,8,2,0
+2009,Hard,Hard,Davydenko,Federer,62 46 75,False,17,13,2,1
+2008,Clay,Clay,Federer,Davydenko,76(5) 12 RET,False,8,8,1,1
+2007,Hard,Hard,Federer,Davydenko,64 63,False,12,7,2,0
+2007,Hard,Hard,Federer,Davydenko,75 61 75,False,20,11,3,0
+2007,Clay,Clay,Federer,Davydenko,75 76(5) 76(7),False,21,17,3,0
+2006,Hard,Hard,Federer,Davydenko,61 75 64,False,19,10,3,0
+2006,Hard,Hard,Federer,Davydenko,64 36 76(7) 76(5),False,23,22,3,1
+2005,Clay,Clay,Federer,Davydenko,63 64,False,12,7,2,0
+2005,Hard,Hard,Federer,Davydenko,75 75,False,14,10,2,0
+2005,Hard,Hard,Federer,Davydenko,63 64,False,12,7,2,0
+2004,Hard,Hard,Federer,Davydenko,63 57 61,False,17,11,2,1
+2004,Hard,Hard,Federer,Davydenko,62 36 75,False,16,13,2,1
+2002,Hard,Carpet,Federer,Davydenko,63 67(4) 75,False,19,15,2,1

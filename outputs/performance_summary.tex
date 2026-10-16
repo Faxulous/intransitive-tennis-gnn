@@ -1,0 +1,29 @@
+\begin{table}[tb]
+    \centering
+    \caption{Model Performance vs Baselines: Men's and Women's Results by Surface.}
+    \label{tab:performance_summary}
+    \resizebox{1.0\linewidth}{!}{%
+    \begin{threeparttable}
+    \begin{tabular}{l l r *{5}{r r}}
+    \toprule
+            &        &       & \multicolumn{2}{c}{\bf{Model}} & \multicolumn{2}{c}{Elo} & \multicolumn{2}{c}{WElo} & \multicolumn{2}{c}{BT} & \multicolumn{2}{c}{PS} \\
+    \cmidrule(lr){4-5} \cmidrule(lr){6-7} \cmidrule(lr){8-9} \cmidrule(lr){10-11} \cmidrule(lr){12-13}
+    Gender & Surface & {Count} & {Acc} & {Brier} & {Acc} & {Brier} & {Acc} & {Brier} & {Acc} & {Brier} & {Acc} & {Brier} \\
+    \midrule
+    Men    & Clay   & 1710  & \textbf{0.667} & \textbf{0.209}   & 0.643 & 0.219   & \underline{0.653} & \underline{0.215}   & 0.637 & 0.217   & 0.708 & 0.190 \\
+    Men    & Grass  & 741   & 0.676 & \underline{0.205}   & \underline{0.680} & \underline{0.205}   & \textbf{0.687} & \textbf{0.202}   & 0.649 & 0.212   & 0.714 & 0.185 \\
+    Men    & Hard   & 3604  & 0.656 & \textbf{0.214}   & \underline{0.659} & 0.215   & \textbf{0.661} & \textbf{0.214}   & \underline{0.659} & 0.217   & 0.683 & 0.199 \\
+    \midrule
+    Women  & Clay   & 1539  & 0.663 & \underline{0.210}   & \underline{0.668} & 0.211   & \textbf{0.669} & \textbf{0.209}   & 0.650 & 0.215   & 0.700 & 0.192 \\
+    Women  & Grass  & 738   & 0.654 & \textbf{0.218}   & \underline{0.659} & 0.221   & \textbf{0.664} & \textbf{0.218}   & 0.649 & 0.223   & 0.663 & 0.207 \\
+    Women  & Hard   & 3720  & \underline{0.646} & \underline{0.219}   & 0.641 & 0.221   & \textbf{0.647} & \textbf{0.218}   & 0.634 & 0.223   & 0.675 & 0.205 \\
+    \midrule
+    Both   & All    & 12052 & \underline{0.657} & \textbf{0.214}   & 0.653 & 0.217   & \textbf{0.658} & \textbf{0.214}   & 0.646 & 0.219   & 0.687 & 0.198 \\
+    \bottomrule
+    \end{tabular}
+    \begin{tablenotes}
+      \item[*] \hspace{-2.5pt} Notes. \textbf{Bold} indicates best performance and \underline{underlined} indicates second-best among the evaluated models (excluding PS benchmark) for each surface/gender combination, with values tied at three decimal places sharing a mark. Count refers to the number of matches in the out-of-sample test set. All metrics rounded to three decimal places. Elo represents the standard Elo rating system by \cite{FiveThirtyEightSerenaGOAT}. WElo represents the Elo extension by \cite{angelini2022weighted}. BT is the Bradley-Terry model of \cite{BradleyTerry}. PS represents Pinnacle Sports odds with \cite{shin1993} margin adjustment.
+    \end{tablenotes}
+    \end{threeparttable}
+    }%end resizebox
+\end{table}
